@@ -1,0 +1,80 @@
+.Headdesign{
+    width: auto;
+  height: auto;
+  box-sizing: border-box;
+  border: 2px solid whitesmoke;
+  border-radius: 2rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
+  
+}.imageset1{
+    display: block;
+    width: 65%;
+    margin-left: 1rem;
+    margin-top: 2rem; 
+    align-self: auto;
+}
+.name{
+    margin-top: 2rem;
+}
+
+.iconset{
+    float: left;
+}
+.outerdiv{
+    text-align: left;
+}
+.btnset{
+   float: right;
+   margin-right: 1rem; 
+}
+
+.iconsettt{
+    display: inline-block;
+}
+.icon{
+    margin-left: 0.5rem;
+}
+.iconstyle{
+    margin-left: 1rem;
+}
+.iconstyle1{
+    color: #1DA1F2;
+    margin-left: 1rem;
+}
+.iconhead{
+    float: left;
+}
+.iconheadset{
+    display: inline-block;
+    margin-top: 2rem; 
+}
+.iconstylee{
+margin-left: 1rem; 
+}
+.iconstyle2{
+    margin-left:1rem; 
+    color: #1DA1F2;
+}
+.iconstyle3{
+    margin-left: 1rem;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767px) and (orientation: portrait) {
+    .btnset{
+           float: inherit;
+    }
+    .iconset{
+        float: inherit;
+    }
+    .iconsettt{
+        display: block;
+    }
+    .btnset{
+        margin-left: 1rem;
+    }
+    .userset{
+        margin-left: 1rem;
+    }
+}
+

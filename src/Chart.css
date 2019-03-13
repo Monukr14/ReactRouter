@@ -1,0 +1,18 @@
+
+  .chartstyle{
+      /* height: 200px;
+      width: 400px; */
+
+      width: auto;
+      height: auto;
+      box-sizing: border-box;
+      border: 2px solid whitesmoke;
+      border-radius: 2rem;
+      margin-left: 5rem;
+      margin-right: 5rem;
+  }
+  .chart{
+    
+
+      
+  }
